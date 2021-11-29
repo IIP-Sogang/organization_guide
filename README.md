@@ -1,1 +1,1 @@
-# organization_guide
+# [organization_guide](https://github.com/IIP-Sogang/organization_guide/wiki)
